@@ -65,6 +65,34 @@ Ketiga service berhasil berjalan dalam satu network dan dapat diakses melalui po
 
 ---
 
+## 📸 Hasil Screenshot Praktikum
+
+### Task 1: Eksplorasi Docker Dasar
+
+**1. Output Container Berjalan (`docker ps`)**
+![Output docker ps](screenshots/01-container-running.png)
+
+**2. Tampilan Browser Mengakses Nginx**
+![Tampilan Browser](screenshots/02-nginx-browser.png)
+
+### Task 2: Membuat Docker Image
+
+**3. Output Build Image (`docker build`)**
+![Output Docker Build](screenshots/03-docker-build.png)
+
+**4. Custom Image Berhasil Dibuat (`docker images`)**
+![Output Docker Images](screenshots/04-custom-image.png)
+
+### Task 3: Docker Compose Multi-Container
+
+**5. Status Compose Services (`docker compose ps`)**
+![Output Compose PS](screenshots/05-compose-ps.png)
+
+**6. Tampilan Browser Multi-Service**
+![Tampilan Compose Services](screenshots/06-compose-services.png)
+
+---
+
 # Kesimpulan
 
 Pada praktikum ini, saya mempelajari:
